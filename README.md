@@ -1,0 +1,3 @@
+# Winx86
+Windows version
+Binaries will be released once we can sign our files :( Still waiting on certum ...
